@@ -1,4 +1,4 @@
-||******************************** Utility Based Cache (UCP) partitioning on ChampSim ***************************************||
+||******************************** Utility Based Cache (UCP) partitioning on ChampSim  *************************************||
 
 
 How to Run : 
