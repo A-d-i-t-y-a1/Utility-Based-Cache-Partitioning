@@ -1,5 +1,5 @@
-|| ***************************                            CS204    Computer Architecture                               ***********************||
-|| ***************************                   Utility Based Cache (UCP) partitioning on ChampSim                    ***********************||
+||                                          CS204    Computer Architecture                                                   ||
+||                                Utility Based Cache (UCP) partitioning on ChampSim                                         ||
 
 
 How to Run : 
